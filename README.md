@@ -3,7 +3,8 @@
 Sou Vicente, um desenvolvedor web apaixonado por criar sites responsivos e explorar novas tecnologias.  
 
 - 🔭 Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript** e **desenvolvimento web**.  
-- 🌱 Estou aprofundando meus conhecimentos em **HTML**, **CSS**, **JavaScript** e **Python**.  
+- 🌱 Estou aprofundando meus conhecimentos em **HTML**, **CSS**, **JavaScript** e **Python**.
+- 💻 Comecei recentemente a aprender **WordPress**.  
 
 Dê uma olhada nos meus repositórios e sinta-se à vontade para se conectar comigo. Vamos construir algo incrível juntos! 🚀
 
@@ -12,6 +13,7 @@ Dê uma olhada nos meus repositórios e sinta-se à vontade para se conectar com
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </div>
   
   ##
